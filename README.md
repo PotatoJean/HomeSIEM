@@ -28,12 +28,12 @@ This lab is done following along a Medium article published by Abdullahi Ali. I 
 <h2>Conclusion</h2>
 <p>To sum everything up, we have done the following: 
 
--<b>set up home lab using elastic SIEM and kali vm</b>
--<b>forwarded data from kali to SIEM using elastic beats agent</b>
--<b>generated security events on kali vm using Nmap</b>
--<b>queried and analysed logs in SIEM using elastic web interface</b>
--<b>created dashboard to visualise security events</b>
--<b>created an alert to detect security events</b>
+-<b>set up home lab using elastic SIEM and kali vm<br/>
+-<b>forwarded data from kali to SIEM using elastic beats agent<br/>
+-<b>generated security events on kali vm using Nmap<br/>
+-<b>queried and analysed logs in SIEM using elastic web interface<br/>
+-<b>created dashboard to visualise security events<br/>
+-<b>created an alert to detect security events<br/>
 
 <h2>Reference</h2>
   [Medium Article]:https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2  <br/>
